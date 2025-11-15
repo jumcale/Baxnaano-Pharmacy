@@ -1,1 +1,0 @@
-Placeholder model artifact. Replace with trained model weights.
